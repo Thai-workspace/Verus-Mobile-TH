@@ -1,17 +1,17 @@
 # Verus Mobile 
-The iOS/Android Verus Mobile multi-coin Wallet
+กระเป๋าสตางค์หลายเหรียญสำหรับ iOS/Android Verus Mobile
 
-Welcome to the Verus Mobile multi-currency crypto wallet test release! This mobile wallet will be the core code base going forward for the Verus mobile experience, including PBaaS and crypto application support in the future. The features currently included are: 
+ยินดีต้อนรับสู่ Verus Mobile เวอร์ชันทดสอบกระเป๋าสตางค์เข้ารหัสหลายสกุลเงิน! กระเป๋าเงินมือถือนี้จะเป็นฐานรหัสหลักสำหรับประสบการณ์มือถือ Verus รวมถึง PBaaS และการสนับสนุนแอปพลิเคชัน crypto ในอนาคต คุณสมบัติที่รวมอยู่ในขณะนี้คือ:
 
-•Multiple account support, the ability to use different keys on the same phone
+•รองรับหลายบัญชี ความสามารถในการใช้คีย์ที่แตกต่างกันในโทรศัพท์เครื่องเดียวกัน
 
-•VerusPay QR scanner integration, allowing users to go from scanning a Verus QR code to being prompted with a transaction to confirm in one step
+• การรวมเครื่องสแกน VerusPay QR ทำให้ผู้ใช้สามารถเปลี่ยนจากการสแกนรหัส Verus QR เพื่อรับข้อความแจ้งธุรกรรมเพื่อยืนยันในขั้นตอนเดียว
 
-•Support for 11 different coins, with more to come soon
+•รองรับ 11 เหรียญที่แตกต่างกัน และอีกมากมายที่จะมาเร็ว ๆ นี้
 
-•The ability to create VerusPay invoices compatible with the Verus Mobile app
+• ความสามารถในการสร้างใบแจ้งหนี้ VerusPay ที่เข้ากันได้กับแอพ Verus Mobile
 
-Feel free to report any discovered bugs, issues, or suggestions by either publicly asking for community support on one of our mobile channels at https://discord.gg/VRKMP2S, or, for more discretion, emailing development@veruscoin.io.
+คุณสามารถรายงานจุดบกพร่อง ปัญหา หรือข้อเสนอแนะใดๆ ที่ค้นพบได้โดยการขอการสนับสนุนจากชุมชนในช่องทางมือถือของเราที่https://discord.gg/VRKMP2S หรือส่งอีเมลมาที่ development@veruscoin.ioสำหรับดุลยพินิจเพิ่มเติม
 
 # Privacy Statement
 No personal data is stored or collected by the Verus Mobile application, except as necessary for authentication. All authentication data is stored locally.
